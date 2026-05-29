@@ -34,17 +34,6 @@ It is the look-back resistance across the load terminals when all the sources ar
  
 **CIRCUIT DIAGRAM: VERIFICATION OF THEVENIN’S THEOREM**
 
-To measure IL
-
-
-To measure RTh or RN
-
-
-To measure VTh or Voc
-
-
-Thevenin’s equivalent circuit
-
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/f6575454-a6f3-4e0c-9299-c240028b5cd6" />
 
 **CALCULATION:**
@@ -54,11 +43,6 @@ Thevenin’s equivalent circuit
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/99b77104-2d33-43f7-a37e-9251fdcaddc3" />
 
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/2821175d-3fe9-4a9f-9535-38c7f0a6fc99" />
-
-**MARK SPLIT-UP:**
-
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a2d4478-0f68-4c67-bb92-a9db60b3cf64" />
-
 
 **PROCEDURE:**
 
@@ -87,6 +71,13 @@ Thevenin’s equivalent circuit
     Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 13.	Theoretically verify the Norton’s theorem.
+
+
+**MARK SPLIT-UP:**
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/3a2d4478-0f68-4c67-bb92-a9db60b3cf64" />
+
+
 
 **RESULT:**
 
